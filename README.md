@@ -22,10 +22,7 @@ cd tokyo-bike-status-webapp
 2. Create and activate a virtual environment:
 ```bash
 python -m venv .venv
-# On Windows:
 .\.venv\Scripts\activate
-# On Unix or MacOS:
-source .venv/bin/activate
 ```
 
 3. Install required packages:
