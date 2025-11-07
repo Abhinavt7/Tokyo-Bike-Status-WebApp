@@ -1,6 +1,6 @@
 # Tokyo Bike Status WebApp
 
-A real-time dashboard for tracking bike-sharing stations across Tokyo. Built with Streamlit and Python.
+A real time dashboard for tracking bike sharing stations across Tokyo. Built with Streamlit and Python.
 
 ## Features
 
